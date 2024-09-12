@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import mysql.connector
-
+#preview
 # function to handle MYSQL connection
 def DBCONNECT():
     try:
